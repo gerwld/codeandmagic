@@ -1,0 +1,2 @@
+# codeandmagic
+Learning JS project
